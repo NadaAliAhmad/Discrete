@@ -1,0 +1,6 @@
+c:\users\raya\documents\visual studio 2015\Projects\project 1(prime numbers))\project 1(prime numbers))\bin\Debug\project 1(prime numbers)).exe.config
+c:\users\raya\documents\visual studio 2015\Projects\project 1(prime numbers))\project 1(prime numbers))\bin\Debug\project 1(prime numbers)).exe
+c:\users\raya\documents\visual studio 2015\Projects\project 1(prime numbers))\project 1(prime numbers))\bin\Debug\project 1(prime numbers)).pdb
+c:\users\raya\documents\visual studio 2015\Projects\project 1(prime numbers))\project 1(prime numbers))\obj\Debug\project 1(prime numbers)).csprojResolveAssemblyReference.cache
+c:\users\raya\documents\visual studio 2015\Projects\project 1(prime numbers))\project 1(prime numbers))\obj\Debug\project 1(prime numbers)).exe
+c:\users\raya\documents\visual studio 2015\Projects\project 1(prime numbers))\project 1(prime numbers))\obj\Debug\project 1(prime numbers)).pdb
